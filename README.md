@@ -11,8 +11,6 @@ Videogames have always been a __passion__ for me, that's why, after my studies a
 
 I think that the most important part in a project is the team!
 
-## __Experiences__
-
 ## __Skills__
 - Teamwork          :star::star::star::star::star:
 - Problem Solving   :star::star::star::star::star:
