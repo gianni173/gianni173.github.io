@@ -12,14 +12,14 @@ Videogames have always been a __passion__ for me, that's why, after my studies a
 I think that the most important part in a project is the team!
 
 ## __Skills__
-- Teamwork          :star: :star: :star: :star: :star:
-- Problem Solving   :star: :star: :star: :star: :star:
-- Analyze Ideas     :star: :star: :star: :star:
-- Programming       :star: :star: :star: :star: :star:
-- AI                :star: :star: :star: :star: :star:
-- Machine Learning  :star: :star: :star:
-- English           :star: :star: :star: :star:
-- Game Design       :star: :star: :star:
+- Teamwork          *****
+- Problem Solving   *****
+- Analyze Ideas     ****
+- Programming       *****
+- AI                *****
+- Machine Learning  ***
+- English           ****
+- Game Design       ***
 
 ## __Projects__
 ### __Studio Projects__
