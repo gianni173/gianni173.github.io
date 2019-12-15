@@ -1,5 +1,7 @@
 # ___Gianni Vallerini___
 
+![](gianni_vallerini.jpg)
+
 ## __About me__
 Hi I'm Gianni Vallerini, I live in Italy, Florence.
 
