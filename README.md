@@ -29,6 +29,7 @@ I think that the most important part in a project is the team!
 - [Community Game Jam 2019, Follow The Truth, Nibiru Games](https://gianni-vallerini.itch.io/follow-the-truth)
 - [IF Game Jam 2019, Little Trouble Girl, Nibiru Games](https://internetfestival.itch.io/little-trouble-girl-if-game-jam-rulez-2019)
 - [Global Game Jam 2019, Planet Hopping](https://gitlab.com/GianniVallerini/ggj-2019---le-quinte)
+- [TextOnly 8-bit Game Jam 2019, Dungeons and Texteons](https://gianni-vallerini.itch.io/dungeons-and-texteons)
 
 ### __Personal Projects__
 - [DevEmber 2018, Starters for Games](https://gitlab.com/GianniVallerini/devember-2018---starters-for-games)
