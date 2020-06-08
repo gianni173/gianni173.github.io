@@ -40,7 +40,7 @@ I think that the most important part in a project is the team!
 
 ## __Personal Info__
 - Date of Birth: 2 June 1996
-- e-mail: [gianni.vallerini](gianni.vallerini@hotmail.com)
+- e-mail: gianni.vallerini[at]hotmail.com
 - [LinkedIn](https://www.linkedin.com/in/gianni-vallerini-a7a948164/?locale=en_US)
 - [GitLab](https://gitlab.com/GianniVallerini)
 - [GitHub](https://github.com/gianni173)
