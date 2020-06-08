@@ -26,20 +26,21 @@ I think that the most important part in a project is the team!
 - Junior Programmer at [MONOGRID](http://mono-grid.com/en/), working on [Suburra the Game](https://play.google.com/store/apps/details?id=com.cattleya.suburra.paid&hl=it)
 
 ### __Game Jams__
-- [Community Game Jam 2019, Follow The Truth, Nibiru Games](https://gianni-vallerini.itch.io/follow-the-truth)
-- [IF Game Jam 2019, Little Trouble Girl, Nibiru Games](https://internetfestival.itch.io/little-trouble-girl-if-game-jam-rulez-2019)
-- [Global Game Jam 2019, Planet Hopping](https://gitlab.com/GianniVallerini/ggj-2019---le-quinte)
-- [TextOnly 8-bit Game Jam 2019, Dungeons and Texteons](https://gianni-vallerini.itch.io/dungeons-and-texteons)
 - [Quarantine Game Jam 2020, Quantum Caster](https://gianni-vallerini.itch.io/quantumcaster)
+- [TextOnly 8-bit Game Jam 2019, Dungeons and Texteons](https://gianni-vallerini.itch.io/dungeons-and-texteons)
+- [Global Game Jam 2019, Planet Hopping](https://gitlab.com/GianniVallerini/ggj-2019---le-quinte)
+- [IF Game Jam 2019, Little Trouble Girl, Nibiru Games](https://internetfestival.itch.io/little-trouble-girl-if-game-jam-rulez-2019)
+- [Community Game Jam 2019, Follow The Truth, Nibiru Games](https://gianni-vallerini.itch.io/follow-the-truth)
 
 ### __Personal Projects__
-- [DevEmber 2018, Starters for Games](https://gitlab.com/GianniVallerini/devember-2018---starters-for-games)
-- [VoxelSystem, Cuby](https://gitlab.com/GianniVallerini/rtlscuby)
+- [Anim Companion App](https://play.google.com/store/apps/details?id=com.giannivalleriniprivate.animcompanion&hl=it)
 - [Machine Learning principles, Genetic Animals](https://gitlab.com/GianniVallerini/geneticanimalsproject) 
+- [VoxelSystem, Cuby](https://gitlab.com/GianniVallerini/rtlscuby)
+- [DevEmber 2018, Starters for Games](https://gitlab.com/GianniVallerini/devember-2018---starters-for-games)
 
 ## __Personal Info__
 - Date of Birth: 2 June 1996
-- e-mail: gianni.vallerini@hotmail.com
+- e-mail: [gianni.vallerini](gianni.vallerini@hotmail.com)
 - [LinkedIn](https://www.linkedin.com/in/gianni-vallerini-a7a948164/?locale=en_US)
 - [GitLab](https://gitlab.com/GianniVallerini)
 - [GitHub](https://github.com/gianni173)
