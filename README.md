@@ -5,7 +5,10 @@
 ## __About me__
 Hi I'm Gianni Vallerini, I live in Italy, Florence.
 
-Currently I am a student at [__The Sign Accademy__](https://thesign.academy/) following the last year (3rd) of the Game Programming course.
+Currently I am working at [__WHITESOCK__](https://whitesock.it) as Gameplay Programmer.
+
+I am also working as a Teacher at [__The Sign Accademy__](https://thesign.academy/), covering Shaders, Code Structure and Artificial Intelligence modules.
+
 My favourite fields are __AI, Machine Learning and Code Architecture__.
 Videogames have always been a __passion__ for me, that's why, after my studies as Barman i decided to start this journey into Game Development.
 
@@ -24,6 +27,8 @@ I think that the most important part in a project is the team!
 ## __Projects__
 ### __Studio Projects__
 - Junior Programmer at [MONOGRID](http://mono-grid.com/en/), working on [Suburra the Game](https://play.google.com/store/apps/details?id=com.cattleya.suburra.paid&hl=it)
+- Programmer at [WHITESOCK](https://whitesock.it/), working on [Chef Adventure](https://play.google.com/store/apps/details?id=com.WhiteSock.ChefAdventure&gl=IT)
+- Programmer at [WHITESOCK](https://whitesock.it/), working on Simbioasi (To be released)
 
 ### __Game Jams__
 - [Quarantine Game Jam 2020, Quantum Caster](https://gianni-vallerini.itch.io/quantumcaster)
