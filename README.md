@@ -18,7 +18,7 @@ I think that the most important part in a project is the team!
 - Programming       ![](star.png) ![](star.png) ![](star.png) ![](star.png) ![](star.png)
 - AI                ![](star.png) ![](star.png) ![](star.png) ![](star.png) ![](star.png)
 - Machine Learning  ![](star.png) ![](star.png) ![](star.png)
-- English           ![](star.png) ![](star.png) ![](star.png) ![](star.png)
+- English           ![](star.png) ![](star.png) ![](star.png) ![](star.png) ![](star.png)
 - Game Design       ![](star.png) ![](star.png) ![](star.png)
 
 ## __Projects__
