@@ -28,7 +28,7 @@ I think that the most important part in a project is the team!
 ### __Studio Projects__
 - Junior Programmer at [MONOGRID](http://mono-grid.com/en/), working on [Suburra the Game](https://play.google.com/store/apps/details?id=com.cattleya.suburra.paid&hl=it)
 - Programmer at [WHITESOCK](https://whitesock.it/), working on [Chef Adventure](https://play.google.com/store/apps/details?id=com.WhiteSock.ChefAdventure&gl=IT)
-- Programmer at [WHITESOCK](https://whitesock.it/), working on Simbioasi (To be released)
+- Programmer at [WHITESOCK](https://whitesock.it/), working on [Simbioasi](https://play.google.com/store/apps/details?id=com.whitesock.simbioasi&gl=IT)
 
 ### __Game Jams__
 - [Quarantine Game Jam 2020, Quantum Caster](https://gianni-vallerini.itch.io/quantumcaster)
